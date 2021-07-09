@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, redirect
 #Creating tkinter GUI
 # import tkinter
@@ -18,9 +19,11 @@ from flask import Flask, render_template, redirect
 
 
 
-from gui_chatbot import getResponse, predict_class, intents
+# from gui_chatbot import getResponse, predict_class, intents
 
 app = Flask(__name__)
+
+app.config.from_object(os.environ['APP_SETTINGS'])
 
 
 @app.route("/")

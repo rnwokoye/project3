@@ -68,6 +68,12 @@
      "patterns": [],
      "responses": ["Loading hospital details"],
      "context": [""]
+    },
+    {"tag": "search_hospital_by_type",
+     "patterns": [],
+     "responses": ["Loading hospital details"],
+     "context": [""]
     }
+
 ]
 }
