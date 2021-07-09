@@ -1,7 +1,7 @@
 {"intents": [
     {"tag": "greeting",
      "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
-     "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+     "responses": ["Hello, good to see you", "Good to see you again", "Hi there, how can I help?"],
      "context": [""]
     },
     {"tag": "goodbye",
@@ -73,6 +73,21 @@
      "patterns": [],
      "responses": ["Loading hospital details"],
      "context": [""]
+    },
+    {"tag": "name",
+        "patterns": ["what is your name","what should i call you","whats your name","are you a robot","tell me your name", "tell me what they call you"],
+        "responses": ["My name is Chatbot", "You can call me Chatbot","People call me Chatbot"],
+        "context": [""]
+    },
+    {"tag": "courses",
+     "patterns": ["what courses are available", "Data science", "what language should I learn", "progamming languages"],
+     "responses": ["We offer full time and part time Data Science, Data Analysis with Python!"],
+     "context": [""]
+    },
+    {"tag": "search_trainings",
+        "patterns": ["do you offer programming classes","do you have trainings","I want to learn a programing language","looking for learn coding"],
+        "responses": ["Yes we have data science courses", "We offer several classes for data science","We can teach you to code"],
+        "context": [""]
     }
 
 ]
