@@ -1,0 +1,62 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1623774798911/work
+aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1623682484649/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+astunparse @ file:///home/conda/feedstock_root/build_artifacts/astunparse_1610696312422/work
+async-timeout==3.0.1
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1619593780156/work
+certifi==2020.6.20
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625489753425/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093477312/work
+click @ file:///Users/runner/miniforge3/conda-bld/click_1621503759047/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1616851512278/work
+flatbuffers @ file:///home/conda/feedstock_root/build_artifacts/python-flatbuffers_1617723079010/work
+gast==0.3.3
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1625312698221/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+grpcio @ file:///Users/runner/miniforge3/conda-bld/grpcio_1619796055906/work
+h5py==2.10.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1625463756158/work
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+Keras @ file:///home/conda/feedstock_root/build_artifacts/keras_1618861913295/work
+Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
+mkl-fft==1.3.0
+mkl-random @ file:///opt/concourse/worker/volumes/live/54b31a45-1da5-4512-5c3a-93c9ff2af8bc/volume/mkl_random_1618853970587/work
+mkl-service==2.3.0
+multidict @ file:///Users/runner/miniforge3/conda-bld/multidict_1624981215272/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy @ file:///opt/concourse/worker/volumes/live/6acd2784-8443-45a5-42ec-e10d2d0eaa28/volume/numpy_and_numpy_base_1620831186338/work
+oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1622563202229/work
+opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
+protobuf==3.15.8
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1619620644068/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1610291493748/work
+pyu2f @ file:///home/conda/feedstock_root/build_artifacts/pyu2f_1604248910016/work
+PyYAML==5.4.1
+regex @ file:///opt/concourse/worker/volumes/live/7f106f75-0e11-45be-4c20-6b071e37c646/volume/regex_1602786678165/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
+scipy @ file:///opt/concourse/worker/volumes/live/7d10d993-3825-404e-6e5d-9947c19e8c6d/volume/scipy_1618855951189/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1610699261066/work/tensorboard-2.4.1-py3-none-any.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
+tensorflow @ file:///Users/uwe/miniconda3/conda-bld/tensorflow-split_1619499088398/work/tensorflow_pkg/tensorflow-2.4.1-cp38-cp38-macosx_10_9_x86_64.whl
+tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1610655765755/work/tensorflow_estimator-2.4.0-py2.py3-none-any.whl
+termcolor==1.1.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1602185206534/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+wrapt @ file:///Users/runner/miniforge3/conda-bld/wrapt_1624971795890/work
+yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1625233054231/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1625284368454/work
